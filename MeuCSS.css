@@ -1,0 +1,53 @@
+/* 
+    Document   : MeuCSS
+    Created on : Oct 11, 2012, 5:01:32 PM
+    Author     : srmf32
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+#topo {
+    position:absolute;
+    top:0%;
+    left:0%;
+    width:100%;
+    height:10%;
+    background-color:green;
+    
+}
+
+#menu {
+    position:absolute;
+    top:10%;
+    left:0%;
+    height:80%;
+    width:20%;
+    background-color:red;
+}
+
+#corpo {
+    position:absolute;
+    top:10%;
+    left:20%;
+    width:80%;
+    height:80%;
+    background-color:grey;
+    
+}
+
+#rodape {
+    position:absolute;
+    top:90%;
+    left:0%;
+    height:10%;
+    width:100%;
+    background-color:yellow;
+    
+}
+
+iFrame{
+    width:100%;
+    height:100%;
+    border:0;
+}

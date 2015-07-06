@@ -1,0 +1,34 @@
+/* 
+    Document   : ImagenCSS.css
+    Created on : Oct 11, 2012, 7:50:30 PM
+    Author     : srmf32
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+div {
+    margin:10px;
+    border:6px;
+    border-style:solid;
+    padding:8px;
+    text-align:center;
+    width:150px;
+    height:150px;
+    background-color:pink;
+    display:inline;
+}
+
+img{
+    border-color:blue;
+    border:3px;
+    border-style:solid;
+    float:left;
+    height:120px;
+    width:130px;
+}
+
+a:hover, a:active{
+    border:1px;
+    border-color:lightblue;
+}
